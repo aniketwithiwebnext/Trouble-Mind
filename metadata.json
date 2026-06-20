@@ -1,0 +1,6 @@
+{
+  "name": "Troubled Mind",
+  "description": "Premium luxury streetwear clothing apparel brand representing individuality, self-expression, and modern urban culture from Antioch, Tennessee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
